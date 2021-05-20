@@ -13,6 +13,12 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
   
+  background:
+    gradient_start: '#4bb4e3'
+    gradient_end: '#2b94c3'
+    # Text color (true=light, false=dark, or remove for the dynamic theme color).
+    text_color_light: true
+
 advanced:
   css_style:
   css_class:
