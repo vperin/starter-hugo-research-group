@@ -20,12 +20,10 @@ design:
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
     text_color_light: true
 
-    
+
 advanced:
   css_style:
   css_class:
-
-design:
 
 ---
 
