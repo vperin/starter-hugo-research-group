@@ -6,7 +6,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "Wowchemy Research Group"
+title: "Geospatial Analysis for Environmental Change Lab"
 subtitle: ""
 hero_media: welcome.jpg
 design:
@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-The Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+Welcome to the Geospatial Analysis for Environmental Change Lab. We are a group of dynamic geospatial scientists working on quantifying space time patterns of environmental change using remote sensing, spatial analysis and graph theory at sub-continental to continental scale.
