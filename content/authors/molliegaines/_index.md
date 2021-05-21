@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Vini Perin
+title: Mollie Gaines
 
 # Username (this should match the folder name)
 authors:
-- viniperin
+- molliegaines
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Ph.D. Student
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: North Carolina State University
+- name: Stanford University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -28,7 +28,7 @@ interests:
 education:
   courses:
   - course: PhD in Artificial Intelligence
-    institution: North Carolina State University
+    institution: Stanford University
     year: 2012
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
@@ -69,4 +69,4 @@ user_groups:
 - Grad Students
 ---
 
-Hey all ! I am a PhD student at the Center for Geospatial Analytics at North Carolina State University. I am currently working with remote sensing imagery to assess surface water dynamics. Check out my website for more information about my work.
+I am currently in the final stages of writing the first chapter of my dissertation: Effects of Climate and Human Drivers on Surface Water Change in the Southeastern United States. In this paper, I am exploring the differences in the ability of three different groups of drivers to estimate surface water change in the Southeast - climate, anthropogenic, and the combination of the two. The Southeast is an interesting study area both because of its high population growth rate - the highest of any region in the country! - and because of its large amount of land cover change. It also experiences a wide range of effects from climate change, with a hurricane season in the late summer and early fall, increased rainfall in the winter, and increasingly regular dry spells and even droughts in the summer. The data-driven models I am developing using a combination of statistical and machine learning techniques can indicate which group of drivers explains the most amount of variance in surface water across the region, as well as which individual variables are the most important in estimating surface water area.
