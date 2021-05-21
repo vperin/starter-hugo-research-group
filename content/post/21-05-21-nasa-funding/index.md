@@ -1,9 +1,10 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
-date: 2020-12-01
+title: Lab awarded NASA funds
+date: 2021-05-21
 ---
 
-Lab awarded NASA funds!
+
+Congratulations to Mirela G. Tulbure for securing funds.
 
 <!--more-->
 
