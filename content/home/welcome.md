@@ -9,11 +9,12 @@ weight: 10  # Order that this section will appear.
 title: ""
 subtitle: ""
 design:
+  columns: "1"
   background:
     # Name of image in `assets/media/`.
     image: background.jpg
     # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-    image_darken: 0.9
+    image_darken: 0
     #  Options are `cover` (default), `contain`, or `actual` size.
     image_size: cover
     # Options include `left`, `center` (default), or `right`.
@@ -24,7 +25,7 @@ design:
     text_color_light: true
 advanced:
   css_style:
-  css_class:
+  css_class: fullscreen
 ---
 
 We are a group of dynamic geospatial scientists working on quantifying space time patterns of environmental change using remote sensing, spatial analysis and graph theory at sub-continental to continental scale.
