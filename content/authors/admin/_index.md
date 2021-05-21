@@ -65,7 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigators
+- Principal Investigator
 ---
 
 I relocated to NCSU in Aug 2019 from the University of New South Wales (UNSW) in Sydney, Australia, where I had a faculty position as an Australian Research Council DECRA fellow and a senior lecturer. Since joining UNSW in 2012, I have built the Geospatial Analysis for Environmental Change Lab. Broadly, in my research I use time-series of satellite and other geospatial data to develop algorithms for quantifying flooding and surface water extent, vegetation and landscape connectivity dynamics, and their drivers of change (climate variability, climate and land-use change). I use an interdisciplinary, top-down data-driven approach using terabytes of satellite and other spatial data and cloud computing, network analysis using graphs, and spatial analysis to quantify space-time patterns in flooding, surface water, vegetation and landscape connectivity dynamics. Results of my work can underpin water policy and management in areas with competing water demands and conservation decisions.  In my prior work I have translated my research findings to government organizations, which have attested the importance of my work for policy and management decisions.
