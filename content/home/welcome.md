@@ -12,7 +12,7 @@ design:
   columns: "1"
   background:
     # Name of image in `assets/media/`.
-    image: water_3.jpg
+    image: water_4.jpg
     # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
     image_darken: 0
     #  Options are `cover` (default), `contain`, or `actual` size.
@@ -28,4 +28,3 @@ advanced:
   css_class: fullscreen
 ---
 
-We are a group of dynamic geospatial scientists working on quantifying space time patterns of environmental change using remote sensing, spatial analysis and graph theory at sub-continental to continental scale.
