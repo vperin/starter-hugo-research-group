@@ -12,7 +12,7 @@ design:
   columns: "1"
   background:
     # Name of image in `assets/media/`.
-    image: water_5.jpg
+    image: water_2.jpg
     # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
     image_darken: 0
     #  Options are `cover` (default), `contain`, or `actual` size.
@@ -32,7 +32,11 @@ advanced:
 
 <h3 align="center">  
 
-We are dynamic <span style="color: rgb(231, 208, 139); font-size:1.5em"> geospatial scientists </span> quantifying space time patterns of <span style="color: rgb(231, 208, 139); font-size:1.5em"> environmental change </span> using <span style="color: rgb(231, 208, 139); font-size:1.5em"> remote sensing</span>, <span style="color: rgb(231, 208, 139); font-size:1.5em"> spatial analysis </span> and <span style="color: rgb(231, 208, 139); font-size:1.5em"> graph theory </span> at sub-continental to continental scale.
+<pre>
 
+
+</pre>
+
+We are dynamic <span style="color: rgb(231, 208, 139); font-size:1.5em"> geospatial scientists </span> quantifying space time patterns of <span style="color: rgb(231, 208, 139); font-size:1.5em"> environmental change </span> using <span style="color: rgb(231, 208, 139); font-size:1.5em"> remote sensing</span>, <span style="color: rgb(231, 208, 139); font-size:1.5em"> spatial analysis </span> and <span style="color: rgb(231, 208, 139); font-size:1.5em"> graph theory </span> at sub-continental to continental scale.
 
 </h3>
