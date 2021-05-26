@@ -28,13 +28,12 @@ advanced:
   css_class: fullscreen
 ---
 
-<p align="center">
-  <img width="300" src="../../assets/images/icon_grey.png" alt="">
-</p>
 
-<h1 align="center"> 
+<h3 align="center"> 
+
+<img width="250" src="../../assets/images/icon_grey.png" alt="">
 
 We are dynamic <span style="color: rgb(231, 208, 139); font-size:1.5em"> geospatial scientists </span> quantifying space time patterns of <span style="color: rgb(231, 208, 139); font-size:1.5em"> environmental change </span> using <span style="color: rgb(231, 208, 139); font-size:1.5em"> remote sensing</span>, <span style="color: rgb(231, 208, 139); font-size:1.5em"> spatial analysis </span> and <span style="color: rgb(231, 208, 139); font-size:1.5em"> graph theory </span> at sub-continental to continental scale.
 
 
-</h1>
+</h3>
