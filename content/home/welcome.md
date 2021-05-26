@@ -12,7 +12,7 @@ design:
   columns: "1"
   background:
     # Name of image in `assets/media/`.
-    image: water_4.jpg
+    image: water_3.jpg
     # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
     image_darken: 0
     #  Options are `cover` (default), `contain`, or `actual` size.
@@ -25,6 +25,7 @@ design:
     text_color_light: true
 advanced:
   css_style:
-  css_class: fullscreen
+  css_class: 
 ---
 
+We are dynamic <span style="color: rgb(231, 208, 139); font-size:2.1em"> **geospatial scientists** </span> quantifying space time patterns of <span style="color: rgb(231, 208, 139); font-size:2.1em"> **environmental change** </span> using <span style="color: rgb(231, 208, 139); font-size:2.1em"> **remote sensing** </span>, <span style="color: rgb(231, 208, 139); font-size:2.1em">**spatial analysis** </span> and graph theory at sub-continental to continental scale.
